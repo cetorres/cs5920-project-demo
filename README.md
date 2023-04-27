@@ -2,7 +2,11 @@
 
 ## Class Project
 
-This is final class project of CS 5920 - Intro to Applied to Cryptography attended at [UCCS](https://uccs.edu) for my [PhD in Computer Science program](https://eas.uccs.edu/cs/academics/graduate-programs/phd-in-engineering-concentration-in-computer-science) during the Spring of 2023 and presented on 04/26/2023. This project has a demo and a final report paper.
+This is final class project of CS 5920 - Intro to Applied to Cryptography attended at [UCCS](https://uccs.edu) for my [PhD in Computer Science program](https://eas.uccs.edu/cs/academics/graduate-programs/phd-in-engineering-concentration-in-computer-science) during the Spring of 2023 and presented on 04/26/2023. This project has:
+
+- A demo (the code on this repo)
+- A slide presentation [CS5920_project_milestone_2_slides.pptx](CS5920_project_milestone_2_slides.pptx)
+- And a final report paper
 
 ### Title: Homomorphic Encryption: What Is It and How Can It Help Secure Healthcare Systems
 
