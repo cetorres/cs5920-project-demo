@@ -2,7 +2,9 @@
 
 ## Class Project
 
-### Homomorphic Encryption: What Is It and How Can It Help Secure Healthcare Systems
+This is final class project of CS 5920 - Intro to Applied to Cryptography attended at [UCCS](https://uccs.edu) for my [PhD in Computer Science program](https://eas.uccs.edu/cs/academics/graduate-programs/phd-in-engineering-concentration-in-computer-science) during the Spring of 2023 and presented on 04/26/2023. This project has a demo and a final report paper.
+
+### Title: Homomorphic Encryption: What Is It and How Can It Help Secure Healthcare Systems
 
 An introductory discussion about homomorphic encryption, what it is, how it works, and how it can help secure healthcare systems and protect patient data privacy.
 
@@ -62,3 +64,14 @@ flask --app app run --port=5051
 If you need to change the `server_health` port, you need also to update the `HEALTH_API_URL` inside the script `server_enc/he_enc.py`.
 
 Then open <http://localhost:5050> on your browser.
+
+## References
+
+This demo used the following reference to help the implementation of the Elgamal Cryptosystem Scheme in Python:
+- Buchanan, William J (2023). ElGamal Homomorphic Multiplication with Python. Asecuritysite.com. https://asecuritysite.com/elgamal/el_homomorphic01
+
+## More information
+
+- Carlos Eugenio Torres 
+  - Emails: <carlos.torres@uccs.edu> or <cetorresusa@gmail.com>
+  - Website: https://cetorres.com
