@@ -1,4 +1,4 @@
-# CS 5920 - Intro to Applied Cryptography
+# CS 5920 - Intro to Applied Cryptography Project
 
 ## Class Project
 
